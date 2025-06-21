@@ -1,6 +1,6 @@
 const Home = () => {
 	return (
-		<section className="max-w-7xl mx-auto px-4 py-4 min-h-[80vh] flex flex-col-reverse lg:flex-row items-center justify-between gap-10 px-6 py-12 bg-gray-900 text-white">
+		<section className="max-w-7xl mx-auto px-4 py-4 min-h-[80vh] flex flex-col-reverse lg:flex-row items-center justify-between gap-10 bg-gray-900 text-white">
 			{/* Text Section */}
 			<div className="flex-1 text-center lg:text-left space-y-6">
 				<h1 className="text-4xl sm:text-5xl font-bold text-orange-500">
