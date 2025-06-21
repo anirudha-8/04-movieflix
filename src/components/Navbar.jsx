@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
 	return (
-		<nav className="bg-gray-900 text-white shadow-md">
+		<nav className="bg-gray-900 text-white shadow-md border-b-orange-200">
 			<div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
 				<div className="text-2xl font-bold tracking-wide">
 					🎬 Movie<span className="text-orange-500">Flix</span>
